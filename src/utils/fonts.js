@@ -1,18 +1,20 @@
 import localFont from "next/font/local";
+
 export const yekan = localFont({
   src: [
     {
-      path: "../../public/fonts/YekanBakh-light.woff2",
-      weight: "100",
+      path: "./fonts/YekanBakh-light.woff2", // مسیر درست
+      weight: "300",
       style: "normal",
     },
   ],
 });
+
 export const title = localFont({
   src: [
     {
-      path: "../../public/fonts/Caveat-Medium.ttf",
-      weight: "100",
+      path: "./fonts/Caveat-Medium.ttf", // مسیر درست
+      weight: "500", // وزن درست برای Medium
       style: "normal",
     },
   ],
