@@ -1,0 +1,1012 @@
+{
+    "exercises": [
+        {
+            "id": "barbell_bench_press",
+            "name": "پرس سینه هالتر",
+            "name_en": "Barbell Bench Press",
+            "muscle_group": "سینه",
+            "secondary_muscles": [
+                "سرشانه",
+                "پشت بازو"
+            ],
+            "equipment": "هالتر",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Barbell-Bench-Press.gif",
+            "sets": 4,
+            "reps": "8-12",
+            "rest": "60-90 ثانیه"
+        },
+        {
+            "id": "incline_barbell_press",
+            "name": "پرس بالا سینه هالتر",
+            "name_en": "Incline Barbell Press",
+            "muscle_group": "سینه",
+            "secondary_muscles": [
+                "سرشانه"
+            ],
+            "equipment": "هالتر",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/incline-barbell-bench-press-2.gif",
+            "sets": 4,
+            "reps": "8-12",
+            "rest": "60-90 ثانیه"
+        },
+        {
+            "id": "dumbbell_bench_press",
+            "name": "پرس سینه دمبل",
+            "name_en": "Dumbbell Bench Press",
+            "muscle_group": "سینه",
+            "secondary_muscles": [
+                "سرشانه",
+                "پشت بازو"
+            ],
+            "equipment": "دمبل",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Dumbbell-Bench-Press.gif",
+            "sets": 4,
+            "reps": "10-15",
+            "rest": "60-90 ثانیه"
+        },
+        {
+            "id": "incline_dumbbell_press",
+            "name": "پرس بالا سینه دمبل",
+            "name_en": "Incline Dumbbell Press",
+            "muscle_group": "سینه",
+            "secondary_muscles": [
+                "سرشانه"
+            ],
+            "equipment": "دمبل",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Incline-Dumbbell-Press.gif",
+            "sets": 3,
+            "reps": "10-12",
+            "rest": "60-90 ثانیه"
+        },
+        {
+            "id": "dumbbell_flyes",
+            "name": "قفسه سینه دمبل",
+            "name_en": "Dumbbell Flyes",
+            "muscle_group": "سینه",
+            "secondary_muscles": [
+                "سرشانه"
+            ],
+            "equipment": "دمبل",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Dumbbell-Flyes.gif",
+            "sets": 3,
+            "reps": "12-15",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "cable_crossover",
+            "name": "کراس اور سیمکش",
+            "name_en": "Cable Crossover",
+            "muscle_group": "سینه",
+            "secondary_muscles": [
+                "سرشانه"
+            ],
+            "equipment": "سیمکش",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2017/05/Cable-Crossover.gif",
+            "sets": 3,
+            "reps": "12-15",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "push_up",
+            "name": "شنای سوئدی",
+            "name_en": "Push Up",
+            "muscle_group": "سینه",
+            "secondary_muscles": [
+                "سرشانه",
+                "پشت بازو"
+            ],
+            "equipment": "بدن",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Push-up.gif",
+            "sets": 3,
+            "reps": "15-20",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "dips",
+            "name": "دیپ سینه",
+            "name_en": "Chest Dips",
+            "muscle_group": "سینه",
+            "secondary_muscles": [
+                "پشت بازو",
+                "سرشانه"
+            ],
+            "equipment": "میله",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Dips.gif",
+            "sets": 3,
+            "reps": "8-12",
+            "rest": "60-90 ثانیه"
+        },
+        {
+            "id": "decline_bench_press",
+            "name": "پرس پایین سینه",
+            "name_en": "Decline Bench Press",
+            "muscle_group": "سینه",
+            "secondary_muscles": [
+                "سرشانه",
+                "پشت بازو"
+            ],
+            "equipment": "هالتر",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Decline-Bench-Press.gif",
+            "sets": 3,
+            "reps": "8-12",
+            "rest": "60-90 ثانیه"
+        },
+        {
+            "id": "pec_deck",
+            "name": "پک دک",
+            "name_en": "Pec Deck",
+            "muscle_group": "سینه",
+            "secondary_muscles": [
+                "سرشانه"
+            ],
+            "equipment": "دستگاه",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Pec-Deck-Fly.gif",
+            "sets": 3,
+            "reps": "12-15",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "barbell_deadlift",
+            "name": "ددلیفت هالتر",
+            "name_en": "Barbell Deadlift",
+            "muscle_group": "پشت",
+            "secondary_muscles": [
+                "پا",
+                "باسن"
+            ],
+            "equipment": "هالتر",
+            "level": "پیشرفته",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Barbell-Deadlift.gif",
+            "sets": 3,
+            "reps": "4-8",
+            "rest": "120-180 ثانیه"
+        },
+        {
+            "id": "bent_over_barbell_row",
+            "name": "زیربغل هالتر خم",
+            "name_en": "Bent Over Barbell Row",
+            "muscle_group": "پشت",
+            "secondary_muscles": [
+                "بازو"
+            ],
+            "equipment": "هالتر",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Barbell-Bent-Over-Row.gif",
+            "sets": 4,
+            "reps": "8-12",
+            "rest": "60-90 ثانیه"
+        },
+        {
+            "id": "lat_pulldown",
+            "name": "لت از جلو",
+            "name_en": "Lat Pulldown",
+            "muscle_group": "پشت",
+            "secondary_muscles": [
+                "بازو"
+            ],
+            "equipment": "دستگاه",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Lat-Pulldown.gif",
+            "sets": 4,
+            "reps": "10-12",
+            "rest": "60-90 ثانیه"
+        },
+        {
+            "id": "pull_ups",
+            "name": "بارفیکس",
+            "name_en": "Pull Ups",
+            "muscle_group": "پشت",
+            "secondary_muscles": [
+                "بازو"
+            ],
+            "equipment": "میله",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Pull-up.gif",
+            "sets": 3,
+            "reps": "6-12",
+            "rest": "60-90 ثانیه"
+        },
+        {
+            "id": "seated_cable_row",
+            "name": "زیربغل سیمکش",
+            "name_en": "Seated Cable Row",
+            "muscle_group": "پشت",
+            "secondary_muscles": [
+                "بازو"
+            ],
+            "equipment": "سیمکش",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Seated-Cable-Row.gif",
+            "sets": 4,
+            "reps": "10-12",
+            "rest": "60-90 ثانیه"
+        },
+        {
+            "id": "t_bar_row",
+            "name": "زیربغل T بار",
+            "name_en": "T-Bar Row",
+            "muscle_group": "پشت",
+            "secondary_muscles": [
+                "بازو"
+            ],
+            "equipment": "هالتر",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/T-Bar-Row.gif",
+            "sets": 4,
+            "reps": "8-12",
+            "rest": "60-90 ثانیه"
+        },
+        {
+            "id": "single_arm_dumbbell_row",
+            "name": "زیربغل دمبل تک دست",
+            "name_en": "Single Arm Dumbbell Row",
+            "muscle_group": "پشت",
+            "secondary_muscles": [
+                "بازو"
+            ],
+            "equipment": "دمبل",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/One-Arm-Dumbbell-Row.gif",
+            "sets": 3,
+            "reps": "10-12",
+            "rest": "60-90 ثانیه"
+        },
+        {
+            "id": "face_pull",
+            "name": "فیس پول",
+            "name_en": "Face Pull",
+            "muscle_group": "پشت",
+            "secondary_muscles": [
+                "سرشانه"
+            ],
+            "equipment": "سیمکش",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2017/05/Face-Pull.gif",
+            "sets": 3,
+            "reps": "15-20",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "hyperextension",
+            "name": "هایپراکستنشن",
+            "name_en": "Hyperextension",
+            "muscle_group": "پشت",
+            "secondary_muscles": [
+                "باسن"
+            ],
+            "equipment": "دستگاه",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Hyperextension.gif",
+            "sets": 3,
+            "reps": "12-15",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "rack_pull",
+            "name": "رک پول",
+            "name_en": "Rack Pull",
+            "muscle_group": "پشت",
+            "secondary_muscles": [
+                "پا",
+                "باسن"
+            ],
+            "equipment": "هالتر",
+            "level": "پیشرفته",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Rack-Pull.gif",
+            "sets": 3,
+            "reps": "4-6",
+            "rest": "120-180 ثانیه"
+        },
+        {
+            "id": "barbell_squat",
+            "name": "اسکات هالتر",
+            "name_en": "Barbell Squat",
+            "muscle_group": "پا",
+            "secondary_muscles": [
+                "باسن",
+                "کمر"
+            ],
+            "equipment": "هالتر",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Barbell-Squat.gif",
+            "sets": 4,
+            "reps": "6-10",
+            "rest": "90-120 ثانیه"
+        },
+        {
+            "id": "front_squat",
+            "name": "اسکات از جلو",
+            "name_en": "Front Squat",
+            "muscle_group": "پا",
+            "secondary_muscles": [
+                "باسن",
+                "کمر"
+            ],
+            "equipment": "هالتر",
+            "level": "پیشرفته",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Front-Squat.gif",
+            "sets": 4,
+            "reps": "6-10",
+            "rest": "90-120 ثانیه"
+        },
+        {
+            "id": "leg_press",
+            "name": "پرس پا",
+            "name_en": "Leg Press",
+            "muscle_group": "پا",
+            "secondary_muscles": [
+                "باسن"
+            ],
+            "equipment": "دستگاه",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Leg-Press.gif",
+            "sets": 4,
+            "reps": "10-15",
+            "rest": "60-90 ثانیه"
+        },
+        {
+            "id": "leg_extension",
+            "name": "جلو پا دستگاه",
+            "name_en": "Leg Extension",
+            "muscle_group": "پا",
+            "secondary_muscles": [],
+            "equipment": "دستگاه",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Leg-Extension.gif",
+            "sets": 3,
+            "reps": "12-15",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "leg_curl",
+            "name": "پشت پا دستگاه",
+            "name_en": "Leg Curl",
+            "muscle_group": "پا",
+            "secondary_muscles": [],
+            "equipment": "دستگاه",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Lying-Leg-Curl.gif",
+            "sets": 3,
+            "reps": "12-15",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "lunges",
+            "name": "لانج دمبل",
+            "name_en": "Dumbbell Lunges",
+            "muscle_group": "پا",
+            "secondary_muscles": [
+                "باسن"
+            ],
+            "equipment": "دمبل",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Dumbbell-Lunge.gif",
+            "sets": 3,
+            "reps": "10-12 هر پا",
+            "rest": "60-90 ثانیه"
+        },
+        {
+            "id": "romanian_deadlift",
+            "name": "ددلیفت رومانیایی",
+            "name_en": "Romanian Deadlift",
+            "muscle_group": "پا",
+            "secondary_muscles": [
+                "پشت",
+                "باسن"
+            ],
+            "equipment": "هالتر",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Romanian-Deadlift.gif",
+            "sets": 3,
+            "reps": "8-12",
+            "rest": "60-90 ثانیه"
+        },
+        {
+            "id": "bulgarian_split_squat",
+            "name": "اسکات بلغاری",
+            "name_en": "Bulgarian Split Squat",
+            "muscle_group": "پا",
+            "secondary_muscles": [
+                "باسن"
+            ],
+            "equipment": "دمبل",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Bulgarian-Split-Squat.gif",
+            "sets": 3,
+            "reps": "10-12 هر پا",
+            "rest": "60-90 ثانیه"
+        },
+        {
+            "id": "hack_squat",
+            "name": "هاک اسکات",
+            "name_en": "Hack Squat",
+            "muscle_group": "پا",
+            "secondary_muscles": [
+                "باسن"
+            ],
+            "equipment": "دستگاه",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Hack-Squat.gif",
+            "sets": 4,
+            "reps": "8-12",
+            "rest": "60-90 ثانیه"
+        },
+        {
+            "id": "calf_raise",
+            "name": "ساق پا ایستاده",
+            "name_en": "Standing Calf Raise",
+            "muscle_group": "ساق",
+            "secondary_muscles": [],
+            "equipment": "دستگاه",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Standing-Calf-Raise.gif",
+            "sets": 4,
+            "reps": "15-20",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "barbell_shoulder_press",
+            "name": "پرس سرشانه هالتر",
+            "name_en": "Barbell Shoulder Press",
+            "muscle_group": "شانه",
+            "secondary_muscles": [
+                "پشت بازو"
+            ],
+            "equipment": "هالتر",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Barbell-Shoulder-Press.gif",
+            "sets": 4,
+            "reps": "8-12",
+            "rest": "60-90 ثانیه"
+        },
+        {
+            "id": "dumbbell_shoulder_press",
+            "name": "پرس سرشانه دمبل",
+            "name_en": "Dumbbell Shoulder Press",
+            "muscle_group": "شانه",
+            "secondary_muscles": [
+                "پشت بازو"
+            ],
+            "equipment": "دمبل",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Dumbbell-Shoulder-Press.gif",
+            "sets": 4,
+            "reps": "10-12",
+            "rest": "60-90 ثانیه"
+        },
+        {
+            "id": "dumbbell_lateral_raise",
+            "name": "نشر از جانب دمبل",
+            "name_en": "Dumbbell Lateral Raise",
+            "muscle_group": "شانه",
+            "secondary_muscles": [],
+            "equipment": "دمبل",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Dumbbell-Lateral-Raise.gif",
+            "sets": 3,
+            "reps": "12-15",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "front_raise",
+            "name": "نشر از جلو",
+            "name_en": "Front Raise",
+            "muscle_group": "شانه",
+            "secondary_muscles": [],
+            "equipment": "دمبل",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Dumbbell-Front-Raise.gif",
+            "sets": 3,
+            "reps": "12-15",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "bent_over_lateral_raise",
+            "name": "نشر خم دمبل",
+            "name_en": "Bent Over Lateral Raise",
+            "muscle_group": "شانه",
+            "secondary_muscles": [
+                "پشت"
+            ],
+            "equipment": "دمبل",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Bent-Over-Lateral-Raise.gif",
+            "sets": 3,
+            "reps": "12-15",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "arnold_press",
+            "name": "پرس آرنولد",
+            "name_en": "Arnold Press",
+            "muscle_group": "شانه",
+            "secondary_muscles": [
+                "پشت بازو"
+            ],
+            "equipment": "دمبل",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Arnold-Press.gif",
+            "sets": 3,
+            "reps": "10-12",
+            "rest": "60-90 ثانیه"
+        },
+        {
+            "id": "upright_row",
+            "name": "زیرچانه هالتر",
+            "name_en": "Upright Row",
+            "muscle_group": "شانه",
+            "secondary_muscles": [
+                "بازو"
+            ],
+            "equipment": "هالتر",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Upright-Row.gif",
+            "sets": 3,
+            "reps": "10-12",
+            "rest": "60-90 ثانیه"
+        },
+        {
+            "id": "shrugs",
+            "name": "شراگ هالتر",
+            "name_en": "Barbell Shrugs",
+            "muscle_group": "شانه",
+            "secondary_muscles": [],
+            "equipment": "هالتر",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Barbell-Shrug.gif",
+            "sets": 3,
+            "reps": "12-15",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "barbell_curl",
+            "name": "جلو بازو هالتر",
+            "name_en": "Barbell Curl",
+            "muscle_group": "بازو",
+            "secondary_muscles": [
+                "ساعد"
+            ],
+            "equipment": "هالتر",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Barbell-Curl.gif",
+            "sets": 3,
+            "reps": "10-15",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "dumbbell_curl",
+            "name": "جلو بازو دمبل",
+            "name_en": "Dumbbell Curl",
+            "muscle_group": "بازو",
+            "secondary_muscles": [
+                "ساعد"
+            ],
+            "equipment": "دمبل",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Dumbbell-Curl.gif",
+            "sets": 3,
+            "reps": "10-12",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "hammer_curl",
+            "name": "جلو بازو چکشی",
+            "name_en": "Hammer Curl",
+            "muscle_group": "بازو",
+            "secondary_muscles": [
+                "ساعد"
+            ],
+            "equipment": "دمبل",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Hammer-Curl.gif",
+            "sets": 3,
+            "reps": "12-15",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "concentration_curl",
+            "name": "جلو بازو متمرکز",
+            "name_en": "Concentration Curl",
+            "muscle_group": "بازو",
+            "secondary_muscles": [],
+            "equipment": "دمبل",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Concentration-Curl.gif",
+            "sets": 3,
+            "reps": "10-12",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "triceps_pushdown",
+            "name": "پشت بازو سیمکش",
+            "name_en": "Triceps Pushdown",
+            "muscle_group": "بازو",
+            "secondary_muscles": [],
+            "equipment": "سیمکش",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Triceps-Pushdown.gif",
+            "sets": 3,
+            "reps": "12-15",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "skull_crusher",
+            "name": "جمجمه شکن",
+            "name_en": "Skull Crusher",
+            "muscle_group": "بازو",
+            "secondary_muscles": [],
+            "equipment": "هالتر",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Lying-Triceps-Extension.gif",
+            "sets": 3,
+            "reps": "10-12",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "overhead_triceps_extension",
+            "name": "پشت بازو دمبل بالاسر",
+            "name_en": "Overhead Triceps Extension",
+            "muscle_group": "بازو",
+            "secondary_muscles": [],
+            "equipment": "دمبل",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Overhead-Triceps-Extension.gif",
+            "sets": 3,
+            "reps": "10-12",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "close_grip_bench_press",
+            "name": "پرس سینه دست جمع",
+            "name_en": "Close Grip Bench Press",
+            "muscle_group": "بازو",
+            "secondary_muscles": [
+                "سینه"
+            ],
+            "equipment": "هالتر",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Close-Grip-Bench-Press.gif",
+            "sets": 3,
+            "reps": "8-12",
+            "rest": "60-90 ثانیه"
+        },
+        {
+            "id": "preacher_curl",
+            "name": "جلو بازو preacher",
+            "name_en": "Preacher Curl",
+            "muscle_group": "بازو",
+            "secondary_muscles": [],
+            "equipment": "هالتر",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Preacher-Curl.gif",
+            "sets": 3,
+            "reps": "10-12",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "crunch",
+            "name": "کرانچ",
+            "name_en": "Crunch",
+            "muscle_group": "شکم",
+            "secondary_muscles": [],
+            "equipment": "بدن",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Crunch.gif",
+            "sets": 3,
+            "reps": "15-20",
+            "rest": "30-45 ثانیه"
+        },
+        {
+            "id": "plank",
+            "name": "پلانک",
+            "name_en": "Plank",
+            "muscle_group": "شکم",
+            "secondary_muscles": [
+                "کمر",
+                "شانه"
+            ],
+            "equipment": "بدن",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Plank.gif",
+            "sets": 3,
+            "reps": "30-60 ثانیه",
+            "rest": "30-45 ثانیه"
+        },
+        {
+            "id": "russian_twist",
+            "name": "پیچ روسی",
+            "name_en": "Russian Twist",
+            "muscle_group": "شکم",
+            "secondary_muscles": [
+                "کمر"
+            ],
+            "equipment": "بدن",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2017/05/Russian-Twist.gif",
+            "sets": 3,
+            "reps": "15-20",
+            "rest": "30-45 ثانیه"
+        },
+        {
+            "id": "leg_raise",
+            "name": "لیفت پا",
+            "name_en": "Leg Raise",
+            "muscle_group": "شکم",
+            "secondary_muscles": [
+                "ران"
+            ],
+            "equipment": "بدن",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Lying-Leg-Raise.gif",
+            "sets": 3,
+            "reps": "12-15",
+            "rest": "30-45 ثانیه"
+        },
+        {
+            "id": "cable_crunch",
+            "name": "کرانچ سیمکش",
+            "name_en": "Cable Crunch",
+            "muscle_group": "شکم",
+            "secondary_muscles": [],
+            "equipment": "سیمکش",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Cable-Crunch.gif",
+            "sets": 3,
+            "reps": "15-20",
+            "rest": "30-45 ثانیه"
+        },
+        {
+            "id": "hanging_leg_raise",
+            "name": "لیفت پا از بارفیکس",
+            "name_en": "Hanging Leg Raise",
+            "muscle_group": "شکم",
+            "secondary_muscles": [
+                "ران"
+            ],
+            "equipment": "میله",
+            "level": "پیشرفته",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Hanging-Leg-Raise.gif",
+            "sets": 3,
+            "reps": "10-15",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "ab_roller",
+            "name": "غلتک شکم",
+            "name_en": "Ab Roller",
+            "muscle_group": "شکم",
+            "secondary_muscles": [
+                "کمر",
+                "شانه"
+            ],
+            "equipment": "غلتک",
+            "level": "پیشرفته",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Ab-Roller.gif",
+            "sets": 3,
+            "reps": "8-12",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "side_plank",
+            "name": "پلانک бокی",
+            "name_en": "Side Plank",
+            "muscle_group": "شکم",
+            "secondary_muscles": [
+                "کمر"
+            ],
+            "equipment": "بدن",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Side-Plank.gif",
+            "sets": 3,
+            "reps": "30-45 ثانیه هر طرف",
+            "rest": "30-45 ثانیه"
+        },
+        {
+            "id": "bicycle_crunch",
+            "name": "کرانچ دوچرخه",
+            "name_en": "Bicycle Crunch",
+            "muscle_group": "شکم",
+            "secondary_muscles": [],
+            "equipment": "بدن",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2017/05/Bicycle-Crunch.gif",
+            "sets": 3,
+            "reps": "15-20",
+            "rest": "30-45 ثانیه"
+        },
+        {
+            "id": "standing_calf_raise",
+            "name": "ساق پا ایستاده",
+            "name_en": "Standing Calf Raise",
+            "muscle_group": "ساق",
+            "secondary_muscles": [],
+            "equipment": "دستگاه",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Standing-Calf-Raise.gif",
+            "sets": 4,
+            "reps": "15-20",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "seated_calf_raise",
+            "name": "ساق پا نشسته",
+            "name_en": "Seated Calf Raise",
+            "muscle_group": "ساق",
+            "secondary_muscles": [],
+            "equipment": "دستگاه",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Seated-Calf-Raise.gif",
+            "sets": 4,
+            "reps": "15-20",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "donkey_calf_raise",
+            "name": "ساق پا الاغی",
+            "name_en": "Donkey Calf Raise",
+            "muscle_group": "ساق",
+            "secondary_muscles": [],
+            "equipment": "دستگاه",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Donkey-Calf-Raise.gif",
+            "sets": 4,
+            "reps": "15-20",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "jumping_jack",
+            "name": "جامپینگ جک",
+            "name_en": "Jumping Jack",
+            "muscle_group": "کاردیو",
+            "secondary_muscles": [
+                "پا",
+                "شانه"
+            ],
+            "equipment": "بدن",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2017/05/Jumping-Jack.gif",
+            "sets": 3,
+            "reps": "30-60 ثانیه",
+            "rest": "30-45 ثانیه"
+        },
+        {
+            "id": "mountain_climber",
+            "name": "کوهنورد",
+            "name_en": "Mountain Climber",
+            "muscle_group": "کاردیو",
+            "secondary_muscles": [
+                "شکم",
+                "پا"
+            ],
+            "equipment": "بدن",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2017/05/Mountain-Climbers.gif",
+            "sets": 3,
+            "reps": "30-60 ثانیه",
+            "rest": "30-45 ثانیه"
+        },
+        {
+            "id": "burpee",
+            "name": "برپی",
+            "name_en": "Burpee",
+            "muscle_group": "کاردیو",
+            "secondary_muscles": [
+                "سینه",
+                "پا",
+                "شکم"
+            ],
+            "equipment": "بدن",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2017/05/Burpee.gif",
+            "sets": 3,
+            "reps": "10-15",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "jump_rope",
+            "name": "طناب زدن",
+            "name_en": "Jump Rope",
+            "muscle_group": "کاردیو",
+            "secondary_muscles": [
+                "پا",
+                "شانه"
+            ],
+            "equipment": "طناب",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2017/05/Jump-Rope.gif",
+            "sets": 3,
+            "reps": "60-120 ثانیه",
+            "rest": "30-45 ثانیه"
+        },
+        {
+            "id": "high_knees",
+            "name": "زانو بلند",
+            "name_en": "High Knees",
+            "muscle_group": "کاردیو",
+            "secondary_muscles": [
+                "پا",
+                "شکم"
+            ],
+            "equipment": "بدن",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2017/05/High-Knees.gif",
+            "sets": 3,
+            "reps": "30-60 ثانیه",
+            "rest": "30-45 ثانیه"
+        },
+        {
+            "id": "box_jump",
+            "name": "پرش روی جعبه",
+            "name_en": "Box Jump",
+            "muscle_group": "کاردیو",
+            "secondary_muscles": [
+                "پا",
+                "باسن"
+            ],
+            "equipment": "جعبه",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Box-Jump.gif",
+            "sets": 3,
+            "reps": "8-12",
+            "rest": "60-90 ثانیه"
+        },
+        {
+            "id": "battle_ropes",
+            "name": "طناب جنگی",
+            "name_en": "Battle Ropes",
+            "muscle_group": "کاردیو",
+            "secondary_muscles": [
+                "شانه",
+                "بازو"
+            ],
+            "equipment": "طناب",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2017/05/Battle-Ropes.gif",
+            "sets": 3,
+            "reps": "30-60 ثانیه",
+            "rest": "45-60 ثانیه"
+        },
+        {
+            "id": "farmer_walk",
+            "name": "راه رفتن کشاورز",
+            "name_en": "Farmer's Walk",
+            "muscle_group": "کاردیو",
+            "secondary_muscles": [
+                "ساعد",
+                "شانه"
+            ],
+            "equipment": "دمبل",
+            "level": "مبتدی",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Farmers-Walk.gif",
+            "sets": 3,
+            "reps": "20-30 متر",
+            "rest": "60-90 ثانیه"
+        },
+        {
+            "id": "kettlebell_swing",
+            "name": "تاب کتل بل",
+            "name_en": "Kettlebell Swing",
+            "muscle_group": "کاردیو",
+            "secondary_muscles": [
+                "پا",
+                "باسن"
+            ],
+            "equipment": "کتل بل",
+            "level": "متوسط",
+            "gif": "https://www.weighttraining.guide/wp-content/uploads/2016/10/Kettlebell-Swing.gif",
+            "sets": 3,
+            "reps": "15-20",
+            "rest": "45-60 ثانیه"
+        }
+    ]
+}
