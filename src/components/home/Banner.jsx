@@ -1,5 +1,4 @@
 import { Zap } from "lucide-react";
-import { title } from "@/utils/fonts";
 export default function Banner() {
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden bg-black">
