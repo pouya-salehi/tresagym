@@ -715,7 +715,7 @@ function ExerciseSearchModal({ exercisesData, onClose, onExerciseSelect }) {
                 <button
                   key={exercise.id || index}
                   onClick={() => onExerciseSelect(exercise)}
-                  className="w-full text-right p-4 bg-gray-800/50 hover:bg-gray-700/50 rounded-xl border border-gray-700 transition-colors text-white text-start"
+                  className="w-full p-4 bg-gray-800/50 hover:bg-gray-700/50 rounded-xl border border-gray-700 transition-colors text-white text-start"
                 >
                   <div className="flex gap-3">
                     {exercise.gif && (
