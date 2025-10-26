@@ -42,7 +42,7 @@ export default function Banner() {
         </div>
 
         <h1
-          className={`${title.className} antialiased font-orbitron font-black text-6xl md:text-8xl lg:text-9xl mb-6 leading-tight`}
+          className= "font-black text-6xl md:text-8xl lg:text-9xl mb-6 leading-tight"
         >
           <span className="text-white">TRESA</span>
           <br />
