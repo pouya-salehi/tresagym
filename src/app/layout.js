@@ -1,5 +1,4 @@
 import "./globals.css";
-import { yekan } from "@/utils/fonts";
 //Context
 import MainLayout from "./layout/layout";
 import { AuthProvider } from "@/context/AuthContext";
@@ -12,7 +11,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="fa" dir="rtl">
-      <body className={`${yekan.className} antialiased`}>
+      <body className="antialiased">
         <AuthProvider>
           <ConfirmProvider>
             <MainLayout>{children}</MainLayout>
