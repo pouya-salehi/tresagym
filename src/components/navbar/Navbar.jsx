@@ -5,6 +5,7 @@ import NavAuth from "./NavAuth";
 import NavLinks from "./NavLinks";
 import HamburgerButton from "./HamburgerButton";
 import MobileMenu from "./MobileMenu";
+import Link from "next/link";
 
 export default function Navbar() {
   const navRef = useRef(null);
@@ -63,8 +64,8 @@ export default function Navbar() {
           {" "}
           {/* اضافه کردن gap-8 */}
           <div className="flex items-center gap-4">
-            <h1 className="font-orbitron font-bold text-lg text-white uppercase">
-              Tresa Gym
+            <h1 className="font-orbitron font-bold text-lg text-white uppercase cursor-pointer">
+              <Link href="/">Tresa Gym</Link>
             </h1>
           </div>
           {/* DESKTOP: لینک‌ها */}

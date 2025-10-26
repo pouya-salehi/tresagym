@@ -1,5 +1,5 @@
 "use client";
-import { useEffect, useState } from "react";
+import { useEffect, useState, Suspense } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import toast from "react-hot-toast";
 import { normalizePhone } from "@/helper/phone";
@@ -7,7 +7,9 @@ import OtpInputs from "../modules/OtpInputs";
 //icons
 import { CiUser, CiMobile1 } from "react-icons/ci";
 import SignUpBtn from "../elements/SignUpBtn";
-export default function SignUpPage() {
+
+// کامپوننت اصلی
+function SignUpContent() {
   const [step, setStep] = useState(1);
   const [phone, setPhone] = useState("");
   const [name, setName] = useState("");
@@ -15,11 +17,13 @@ export default function SignUpPage() {
   const [loading, setLoading] = useState(false);
   const router = useRouter();
   const searchParams = useSearchParams();
+
   useEffect(() => {
     if (searchParams.get("auth") === "required") {
       toast.error("برای ادامه باید وارد شوید یا ثبت نام کنید");
     }
   }, [searchParams]);
+
   const sendOtp = async () => {
     setLoading(true);
     try {
@@ -65,9 +69,7 @@ export default function SignUpPage() {
       <div className="w-full flex flex-col gap-2 max-w-md p-6 rounded">
         {step === 1 && (
           <>
-            <h3 className="mb-4 font-bold text-2xl text-center">
-              فرم ثبت‌نام
-            </h3>
+            <h3 className="mb-4 font-bold text-2xl text-center">فرم ثبت‌نام</h3>
 
             <div className="flex flex-col gap-1 w-full border-gray-300 border-2 rounded-md p-1">
               <div className="flex justify-between items-center">
@@ -125,5 +127,23 @@ export default function SignUpPage() {
         )}
       </div>
     </div>
+  );
+}
+
+// کامپوننت اصلی با Suspense
+export default function SignUpPage() {
+  return (
+    <Suspense
+      fallback={
+        <div className="flex justify-center items-center min-h-[70vh]">
+          <div className="text-center">
+            <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-green-500 mx-auto"></div>
+            <p className="mt-4 text-gray-500">در حال بارگذاری...</p>
+          </div>
+        </div>
+      }
+    >
+      <SignUpContent />
+    </Suspense>
   );
 }
